@@ -4,4 +4,4 @@ go 1.21
 
 replace gobotapi => ./gobotapi // gobotapi folder path
 
-require gobotapi v1.6.3
+require gobotapi v1.5.3

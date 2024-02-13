@@ -1,2 +1,4 @@
-gobotapi v1.5.3 h1:Y0qLSLFj8OjrjjAkUhzIfv66ntd05szh6d7vVEVDgrQ=
-gobotapi v1.5.3/go.mod h1:3m8YaUhXYl04qBJ9DhSma5xpfluf5+aDiLIAfsyZEMg=
+github.com/fortytw2/leaktest v1.3.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
+github.com/wader/goutubedl v0.0.0-20240113171134-01bac34c4c02 h1:ys48+FSHG8ROh8usU2YSjWRwBdojZirGXxgvfyLjep0=
+github.com/wader/goutubedl v0.0.0-20240113171134-01bac34c4c02/go.mod h1:5KXd5tImdbmz4JoVhePtbIokCwAfEhUVVx3WLHmjYuw=
+github.com/wader/osleaktest v0.0.0-20191111175233-f643b0fed071/go.mod h1:XD6emOFPHVzb0+qQpiNOdPL2XZ0SRUM0N5JHuq6OmXo=
